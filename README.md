@@ -1,2 +1,5 @@
-# Maria Merkulova
-## Computer Science Graduate from University of Birmingham
+## Projects:
+### Grocery Collection Robot Simulation in ROS (Python)
+### Generative Chatbot (Python)
+### Noughts and Crosses (C++)
+
