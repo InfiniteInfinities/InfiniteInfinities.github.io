@@ -1,8 +1,8 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Maria Merkulova test
-description: Computer Science Graduate from University of Birmingham test
+title: Maria Merkulova
+description: Computer Science Graduate from University of Birmingham
 github:
-  zip_url: https://github.com/InfiniteInfinities
+  repository_url: https://github.com/InfiniteInfinities
 
